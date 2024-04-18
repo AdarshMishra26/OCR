@@ -1,0 +1,5 @@
+Flask
+doctr
+torch
+torchvision
+textwrap3
